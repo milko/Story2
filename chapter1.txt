@@ -1,0 +1,3 @@
+if eyesAreReading() {
+	tell(reader, "This is a story")
+}
