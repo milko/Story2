@@ -1,3 +1,7 @@
 if eyesAreReading() {
 	tell(reader, "This is a story")
 }
+
+if reader.isNotLooking {
+	alien.eat(reader)
+}
